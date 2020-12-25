@@ -1,0 +1,9 @@
+C:\Stuff\Comp Sci\ChangeFileDate\bin\Debug\ChangeFileDate.exe.config
+C:\Stuff\Comp Sci\ChangeFileDate\bin\Debug\ChangeFileDate.exe
+C:\Stuff\Comp Sci\ChangeFileDate\bin\Debug\ChangeFileDate.pdb
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.csprojAssemblyReference.cache
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.MainForm.resources
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.Properties.Resources.resources
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.csproj.GenerateResource.cache
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.exe
+C:\Stuff\Comp Sci\ChangeFileDate\obj\Debug\ChangeFileDate.pdb
